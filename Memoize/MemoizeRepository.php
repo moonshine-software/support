@@ -1,6 +1,6 @@
 <?php
 
-namespace MoonShine\Support;
+namespace MoonShine\Support\Memoize;
 
 use Countable;
 use WeakMap;
